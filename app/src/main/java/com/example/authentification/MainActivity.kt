@@ -51,6 +51,7 @@ class MainActivity : AppCompatActivity() {
             inputEmail.text.clear()
             inputPassword.text.clear()
 
+
         }
     }
 }
