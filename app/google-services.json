@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013325488748",
+    "project_id": "davaleba-tvrameti-dekemberi",
+    "storage_bucket": "davaleba-tvrameti-dekemberi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013325488748:android:c7bd5104e39ed82b1cae49",
+        "android_client_info": {
+          "package_name": "com.example.authentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013325488748-4p3l53vupoveantne8494821qes3c2cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB55Y_jX92CdStOMDpWA43jymhOtDu2dj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013325488748-4p3l53vupoveantne8494821qes3c2cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
